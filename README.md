@@ -36,7 +36,7 @@ In the meanwhile, I’m working on improve my current skills to be the best as p
 
 ### Skills facts 🤹🏼‍♂️
 
-<p> My 3 short-term objectives :
+<p>💪🏼 My 3 short-term objectives :
   <ul>
     <li>Consolidates my coding skills learnt from Le Wagon</li>
     <li>Improve my skill on JS and learn React</li>
@@ -50,7 +50,7 @@ In the meanwhile, I’m working on improve my current skills to be the best as p
   </a>
 </p>
 
-<p> My Codewars rank (beginning on June 2021) :
+<p>
   <a href="https://www.codewars.com/users/StvnPzn" target="_blank">
     <img src="https://www.codewars.com/users/StvnPzn/badges/large" />
   </a>
