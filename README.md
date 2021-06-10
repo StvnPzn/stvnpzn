@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-I'm a new fresh fullstack developper
+### Hi there, I'm Steven 👋
+<p>I’m a new fresh developper full stack thanks to <a href="https://www.lewagon.com/">Le Wagon Bootcamp</a> with a strong background in marketing (in love with product and growth 🤓).<br>
+Based in Toulouse, I’m open to work anywhere it's needed, where the best project is 🤙🏼 !<br>
+In the meanwhile, I’m working on improve my current skills to be the best as possible and learn, learn and always learn ! 💪🏼</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/stevenpzn/">
+    <img src="https://img.shields.io/badge/-@stevenpouzon-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn" alt="LinkedIn Badge">
+  </a>
+</p>
