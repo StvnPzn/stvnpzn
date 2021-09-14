@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Steven 👋
 
 <p>I’m a new fresh fullstack developer (thanks to <a href="https://www.lewagon.com/">Le Wagon Bootcamp</a>) with a strong background in marketing (in love with product and growth 🤓).<br>
-Based in Toulouse, I’m open to work anywhere it's needed, where the best project is 🤙🏼 !<br>
+Based in Nice, I’m currently enjoying my first experience as fullstack web developper 🤙🏼 !<br>
 In the meanwhile, I’m working on improve my current skills to be the best as possible and learn, learn and always learn ! 💪🏼</p>
 
 <p>
@@ -36,11 +36,11 @@ In the meanwhile, I’m working on improve my current skills to be the best as p
 
 ### Skills facts 🤹🏼‍♂️
 
-<p>💪🏼 My 3 short-term objectives :
+<p>💪🏼 My next 3-months objectives :
   <ul>
-    <li>Consolidates my coding skills learnt from Le Wagon</li>
-    <li>Improve my skill on JS and learn React</li>
-    <li>Learn the basics of Python</li>
+    <li>Confirm my current position as dev junior in my new company ⭐️⭐️⭐️</li>
+    <li>Consolidates my RoR skill with Ruby on Rails Tutorials and Codewars ⭐️⭐️</li>
+    <li>Improve my skill on JS with ToutJavscript, You don't know JS and JS30 ⭐️</li>
   </ul>
 </p>
 
