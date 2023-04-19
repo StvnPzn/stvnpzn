@@ -36,10 +36,10 @@ In the meanwhile, I’m working on improve my current skills to be the best as p
 
 ### Skills facts 🤹🏼‍♂️
 
-<p>💪🏼 My next 3-months objectives :
+<p>💪🏼 My next 6-months objectives :
   <ul>
-    <li>Confirm my current position as dev junior in my new company ⭐️⭐️⭐️</li>
-    <li>Consolidates my RoR skill with Ruby on Rails Tutorials and Codewars ⭐️⭐️</li>
+    <li>Continue to invest 1000% in my work to progress and participate in the success of my business ⭐️⭐️⭐️</li>
+    <li>Pursue my self-progression by developing personal projects to improve my skills on RoR and Ruby ⭐️⭐️</li>
     <li>Improve my skill on JS with ToutJavscript, You don't know JS and JS30 ⭐️</li>
   </ul>
 </p>
