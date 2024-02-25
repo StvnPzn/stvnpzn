@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Steven 👋
 
 <p>I’m a new fresh fullstack developer (thanks to <a href="https://www.lewagon.com/">Le Wagon Bootcamp</a>) with a strong background in marketing (in love with product and growth 🤓).<br>
-Based in Nice, I’m currently enjoying my first experience as fullstack web developper 🤙🏼 !<br>
-In the meanwhile, I’m working on improve my current skills to be the best as possible and learn, learn and always learn ! 💪🏼</p>
+Based in Nice, I’m currently enjoying my experience as fullstack web developper and Team Leader 🤙🏼 !<br>
+At the same time, I work on improving my skills to be the best I can be while learning new things and developing my own projects! 💪🏼</p>
 
 <p>
   <a href="https://www.linkedin.com/in/stevenpzn/">
