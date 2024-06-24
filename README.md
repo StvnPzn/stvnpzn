@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Steven 👋
 
 <p>I’m a new fresh fullstack developer (thanks to <a href="https://www.lewagon.com/">Le Wagon Bootcamp</a>) with a strong background in marketing (in love with product and growth 🤓).<br>
-Based in Nice, I’m currently enjoying my experience as fullstack web developper and Team Leader 🤙🏼 !<br>
-At the same time, I work on improving my skills to be the best I can be while learning new things and developing my own projects! 💪🏼</p>
+Based in Nice, I’m currently enjoying my experience as fullstack web developper and Team Leader! 🤙🏼<br>
+In the meantime, I'm working on my own projects to keep learning, discover new things, and maybe even launch my own product! 💪🏼</p>
 
 <p>
   <a href="https://www.linkedin.com/in/stevenpzn/">
@@ -39,7 +39,7 @@ At the same time, I work on improving my skills to be the best I can be while le
 <p>💪🏼 My next 6-months objectives :
   <ul>
     <li>Continue to invest 1000% in my work to progress and participate in the success of my business ⭐️⭐️⭐️</li>
-    <li>Pursue my self-progression by developing personal projects to improve my skills on RoR and Ruby ⭐️⭐️</li>
+    <li>Pursue my self-progression by developing personal projects to improve my skills on RoR and Ruby and others languages ⭐️⭐️</li>
     <li>Improve my skill on JS with ToutJavscript, You don't know JS and JS30 ⭐️</li>
   </ul>
 </p>
